@@ -1,11 +1,9 @@
 {
     "type": "script",
-    "description": "End",
+    "description": "Shift + Left",
     "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 7,
+    "modes": [],
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,10 +16,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<super>"
-        ],
-        "hotKey": "."
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

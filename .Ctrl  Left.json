@@ -19,8 +19,8 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>",
-            "<ctrl>"
+            "<ctrl>",
+            "<super>"
         ],
         "hotKey": "h"
     },
